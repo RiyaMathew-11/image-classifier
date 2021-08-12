@@ -2,7 +2,7 @@
 
 Image Classifier of ships and trucks using CIFAR-10 dataset.<br>
 
-[Completion in code-base]
+<b><i>[Completion in code-base]</i></b>
 
 - Deployment to be done.
 
